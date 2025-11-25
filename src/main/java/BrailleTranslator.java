@@ -61,7 +61,6 @@ public class BrailleTranslator {
         // Letras adicionales del braille español
         brailleMap.put('w', "⠺"); // por influencia del inglés
         brailleMap.put('ñ', "⠻");
-        brailleMap.put('ü', "⠳");
     }
     /**
      * Inicializa los caracteres con acento agudo (á, é, í, ó, ú) y el diptongo 'ü'.
@@ -78,19 +77,24 @@ public class BrailleTranslator {
      * Inicializa los símbolos de puntuación más comunes del braille español.
      */
     private void initPunctuation() {
-        brailleMap.put('.', "⠲");
+        brailleMap.put('.', "⠄");
         brailleMap.put(',', "⠂");
         brailleMap.put('?', "⠢");
         brailleMap.put('¡', "⠖");
         brailleMap.put('!', "⠖");
-        brailleMap.put('¿', "⠦");
+        brailleMap.put('¿', "⠢");
         brailleMap.put(':', "⠒");
         brailleMap.put(';', "⠆");
-        brailleMap.put('(', "⠷");
-        brailleMap.put(')', "⠾");
-        brailleMap.put('"', "⠶");
+        brailleMap.put('(', "⠣");
+        brailleMap.put(')', "⠜");
+        brailleMap.put('"', "⠦");
         brailleMap.put('-', "⠤");
+        brailleMap.put('+', "⠖");
+        brailleMap.put('x', "⠦");   // multiplicación
+        brailleMap.put('÷', "⠲");
+        brailleMap.put('=', "⠶");// división
     }
+
     /**
      * Inicializa los dígitos (0-9) que se mapean a las primeras diez letras de la serie a-j.
      */
@@ -148,6 +152,6 @@ public class BrailleTranslator {
      * @return La representación en Braille (String) o '⍰' si el carácter no se encuentra en el mapa.
      */
     private String getBrailleChar(char c) {
-        return brailleMap.getOrDefault(c, "⍰"); // placeholder si no existe
+        return brailleMap.getOrDefault(c, "⍰ signo no existente en el diccionario"); // placeholder si no existe
     }
 }
