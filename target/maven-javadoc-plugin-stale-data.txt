@@ -49,6 +49,7 @@ C:\Users\salma\.m2\repository\org\eclipse\jetty\jetty-client\9.4.48.v20220622\je
 C:\Users\salma\.m2\repository\org\eclipse\jetty\websocket\websocket-servlet\9.4.48.v20220622\websocket-servlet-9.4.48.v20220622.jar = 1763948290637
 C:\Users\salma\.m2\repository\org\eclipse\jetty\websocket\websocket-api\9.4.48.v20220622\websocket-api-9.4.48.v20220622.jar = 1763948290529
 C:\Users\salma\.m2\repository\com\google\code\gson\gson\2.10.1\gson-2.10.1.jar = 1763948290563
+<<<<<<< HEAD
 C:\Users\salma\OneDrive\Documentos\Sexto_Semestre\Construcción_Software\BRAILLE-APP\src\main\java\BrailleTranslator.java = 1764056051459
 C:\Users\salma\OneDrive\Documentos\Sexto_Semestre\Construcción_Software\BRAILLE-APP\src\main\java\Main.java = 1764056051459
 C:\Users\salma\OneDrive\Documentos\Sexto_Semestre\Construcción_Software\BRAILLE-APP\src\main\java\Server.java = 1764056051459
@@ -72,3 +73,28 @@ C:\Users\salma\OneDrive\Documentos\Sexto_Semestre\Construcción_Software\BRAILLE
 C:\Users\salma\OneDrive\Documentos\Sexto_Semestre\Construcción_Software\BRAILLE-APP\target\reports\apidocs\Server.html = 1764097692887
 C:\Users\salma\OneDrive\Documentos\Sexto_Semestre\Construcción_Software\BRAILLE-APP\target\reports\apidocs\tag-search-index.js = 1764097693006
 C:\Users\salma\OneDrive\Documentos\Sexto_Semestre\Construcción_Software\BRAILLE-APP\target\reports\apidocs\type-search-index.js = 1764097693004
+=======
+C:\Users\salma\OneDrive\Documentos\Sexto_Semestre\Construcción_Software\BRAILLE-APP\src\main\java\BrailleTranslator.java = 1764219032504
+C:\Users\salma\OneDrive\Documentos\Sexto_Semestre\Construcción_Software\BRAILLE-APP\src\main\java\Main.java = 1764056051459
+C:\Users\salma\OneDrive\Documentos\Sexto_Semestre\Construcción_Software\BRAILLE-APP\src\main\java\Server.java = 1764056051459
+C:\Users\salma\OneDrive\Documentos\Sexto_Semestre\Construcción_Software\BRAILLE-APP\src\main\java = 1764219032503
+C:\Users\salma\OneDrive\Documentos\Sexto_Semestre\Construcción_Software\BRAILLE-APP\target\reports\apidocs\allclasses-index.html = 1764219359577
+C:\Users\salma\OneDrive\Documentos\Sexto_Semestre\Construcción_Software\BRAILLE-APP\target\reports\apidocs\allpackages-index.html = 1764219359581
+C:\Users\salma\OneDrive\Documentos\Sexto_Semestre\Construcción_Software\BRAILLE-APP\target\reports\apidocs\BrailleTranslator.html = 1764219359514
+C:\Users\salma\OneDrive\Documentos\Sexto_Semestre\Construcción_Software\BRAILLE-APP\target\reports\apidocs\element-list = 1764219359537
+C:\Users\salma\OneDrive\Documentos\Sexto_Semestre\Construcción_Software\BRAILLE-APP\target\reports\apidocs\help-doc.html = 1764219359602
+C:\Users\salma\OneDrive\Documentos\Sexto_Semestre\Construcción_Software\BRAILLE-APP\target\reports\apidocs\index-all.html = 1764219359594
+C:\Users\salma\OneDrive\Documentos\Sexto_Semestre\Construcción_Software\BRAILLE-APP\target\reports\apidocs\index.html = 1764219359599
+C:\Users\salma\OneDrive\Documentos\Sexto_Semestre\Construcción_Software\BRAILLE-APP\target\reports\apidocs\Main.html = 1764219359528
+C:\Users\salma\OneDrive\Documentos\Sexto_Semestre\Construcción_Software\BRAILLE-APP\target\reports\apidocs\member-search-index.js = 1764219359585
+C:\Users\salma\OneDrive\Documentos\Sexto_Semestre\Construcción_Software\BRAILLE-APP\target\reports\apidocs\module-search-index.js = 1764219359582
+C:\Users\salma\OneDrive\Documentos\Sexto_Semestre\Construcción_Software\BRAILLE-APP\target\reports\apidocs\overview-tree.html = 1764219359565
+C:\Users\salma\OneDrive\Documentos\Sexto_Semestre\Construcción_Software\BRAILLE-APP\target\reports\apidocs\package-search-index.js = 1764219359583
+C:\Users\salma\OneDrive\Documentos\Sexto_Semestre\Construcción_Software\BRAILLE-APP\target\reports\apidocs\package-summary.html = 1764219359544
+C:\Users\salma\OneDrive\Documentos\Sexto_Semestre\Construcción_Software\BRAILLE-APP\target\reports\apidocs\package-tree.html = 1764219359549
+C:\Users\salma\OneDrive\Documentos\Sexto_Semestre\Construcción_Software\BRAILLE-APP\target\reports\apidocs\package-use.html = 1764219359562
+C:\Users\salma\OneDrive\Documentos\Sexto_Semestre\Construcción_Software\BRAILLE-APP\target\reports\apidocs\search.html = 1764219359597
+C:\Users\salma\OneDrive\Documentos\Sexto_Semestre\Construcción_Software\BRAILLE-APP\target\reports\apidocs\Server.html = 1764219359536
+C:\Users\salma\OneDrive\Documentos\Sexto_Semestre\Construcción_Software\BRAILLE-APP\target\reports\apidocs\tag-search-index.js = 1764219359586
+C:\Users\salma\OneDrive\Documentos\Sexto_Semestre\Construcción_Software\BRAILLE-APP\target\reports\apidocs\type-search-index.js = 1764219359584
+>>>>>>> desarrollo
