@@ -146,7 +146,7 @@
     }
 
     if (direction === "ES_TO_BR") {
-      const res = await fetch("http://localhost:8081/traducir", {
+      const res = await fetch("/traducir", {
         method: "POST",
         headers: { "Content-Type": "text/plain" },
         body: input
@@ -155,7 +155,7 @@
       txtRight.value = braille;
       btnDescargar.disabled = !braille.trim();
     } else {
-      const res = await fetch("http://localhost:8081/traducir-braille", {
+      const res = await fetch("/traducir-braille", {
         method: "POST",
         headers: { "Content-Type": "text/plain" },
         body: input
